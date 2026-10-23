@@ -300,6 +300,19 @@ nav a:hover::after {
     background-color: #444c56;
     transform: translateY(-2px);
 }
+.documentation-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 18px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.documentation-btn:hover {
+    background-color: #555;
+}
 
 
 /* ===== CONTACT ===== */
